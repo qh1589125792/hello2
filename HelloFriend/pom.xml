@@ -10,7 +10,7 @@
 
 	<!-- 路径拼接规则： g:中的包名每个小名字都会创建一个文件夹 a:创建一个文件夹 v:创建一个文件夹 a+"-"+v.jar 拼接jar包名字 -->
 	<properties>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 	</properties>
 	<dependencies>
 		<!-- 依赖范围 ： <scope></scope> 默认：自己项目的所有地方都可以使用（test和main下的Java代码中 ） 依赖了自己的项目也可以使用 
